@@ -152,6 +152,7 @@ configs/local/default.yaml
 # Aim logging
 .aim
 
-.env.example
+# Environment
+.env
 src/.hydra
 Thumbs.db
